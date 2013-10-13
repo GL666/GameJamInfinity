@@ -6,6 +6,8 @@ Left-Click : Pour faire bouger de case le joueur
 
 Space: Pour faire l'attaque du joueur
 
+enter : fini ton tour (le premier enter pour finir le tour bouger, le deuxieme pour finir le tour attaque)
+
 Pour le menu, il faut cliquer sur le carré qui tourne.
 
 Le joueur doit détruire le néant (les tuiles noirs qui s'ajoute a chaque tour) pour gagner. Si le joueur
